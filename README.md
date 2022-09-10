@@ -66,5 +66,16 @@ Os softwares utilizados neste projeto foram:
 
 ![story5](https://user-images.githubusercontent.com/84355628/189490369-9b756729-5c3a-4c46-bb80-005de7af3129.png)
 
+## Referências
 
+- API 
+alphavantage.co/documentation/
+
+- Repositório 
+https://github.com/camila-almeida-da/IronHack_P3/
+
+## Contato
+
+Camila Almeida de Souza
+camilaalmeida.da22@gmail.com 
 
