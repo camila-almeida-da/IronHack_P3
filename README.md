@@ -66,6 +66,11 @@ Os softwares utilizados neste projeto foram:
 
 ![story5](https://user-images.githubusercontent.com/84355628/189490369-9b756729-5c3a-4c46-bb80-005de7af3129.png)
 
+## Dashboard 
+
+![Dashboard](https://user-images.githubusercontent.com/84355628/189491485-6dc61464-de91-4ff6-85b3-33a91353e053.png)
+
+
 ## Referências
 
 - API 
