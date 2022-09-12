@@ -68,13 +68,14 @@ Os softwares utilizados neste projeto foram:
 
 ## Dashboard 
 
-![Dashboard](https://user-images.githubusercontent.com/84355628/189491485-6dc61464-de91-4ff6-85b3-33a91353e053.png)
-
+![dash1](https://user-images.githubusercontent.com/84355628/189693475-26e1342e-2a24-4db4-9a0f-b63eaa80e96f.png)
 
 ## Referências
 
 - API 
 alphavantage.co/documentation/
+- Link Tableau 
+https://public.tableau.com/app/profile/camila.almeida.de.souza/viz/Book1_16627806126380/Dashboard1#1
 
 - Repositório 
 https://github.com/camila-almeida-da/IronHack_P3/
