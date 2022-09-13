@@ -75,7 +75,7 @@ Os softwares utilizados neste projeto foram:
 - API 
 alphavantage.co/documentation/
 - Link Tableau 
-https://public.tableau.com/app/profile/camila.almeida.de.souza/viz/Book1_16627806126380/Dashboard1#1
+https://public.tableau.com/app/profile/camila.almeida.de.souza/viz/Book1_16627806126380/Dashboard1
 
 - Repositório 
 https://github.com/camila-almeida-da/IronHack_P3/
